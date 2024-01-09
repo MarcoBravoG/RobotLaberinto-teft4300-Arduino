@@ -2,7 +2,7 @@
 
 Wall sensors are intended to be used by robots built to run in micromouse maze-based events such as the wall-follower and maze solving classes.
 
-You can find out more about the various contest classes at https://ukmars.org/contests/
+
 
 ## Contents
 
